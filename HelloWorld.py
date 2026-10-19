@@ -1,0 +1,1 @@
+print("Hello World is a DCPE module for AIoT")
